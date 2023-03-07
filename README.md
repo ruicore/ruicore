@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there 👋 I'm [@RuiCore](https://github.com/ruicore)
+
+I'm a web backend developer, currently working at a small company. I'm also a student of Information Management and Information System at Wuhan University of Technology.
+
+I currently live in Hangzhou, China.
+
+I mainly use Python to develop web applications. I also have some experience with TypeScript, and Go.
+
+I created a package called [ExcelAlchemy](https://pypi.org/project/ExcelAlchemy/) to help me deal with Excel files. It's a wrapper of [openpyxl](https://pypi.org/project/openpyxl/) and [panadas](https://pypi.org/project/pandas/). It's still in development, but it's already usable. It's mainly used to import and export Excel files, load excel data into pydantic models, and export pydantic models to Excel files.
+
+If you find it useful, please give it a star. If you have any questions, please feel free to open an issue or contact me.
+
+I currently use [FastAPI](https://fastapi.tiangolo.com/) to develop web applications. I also use [SQLAlchemy](https://www.sqlalchemy.org/) to connect to the database. I use [Pydantic](https://pydantic-docs.helpmanual.io/) to validate data. I use [uvicorn](https://www.uvicorn.org/) to run the application. I use [postgresql](https://www.postgresql.org/) as the database and [redis](https://redis.io/) as the cache.
+
+You can find me on:
+
+- [GitHub as @ruicore(here you are)](https://github.com/ruicore)
+- [Twitter as @ruicore](https://twitter.com/ruicore)
+- [LinkedIn as @ruicore](https://www.linkedin.com/in/ruicore/)
+- [Medium as @ruicore](https://medium.com/@ruicore)
+
+
 
 <!--
 **ruicore/ruicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

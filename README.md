@@ -15,7 +15,7 @@ I currently use [FastAPI](https://fastapi.tiangolo.com/) to develop web applicat
 You can find me on:
 
 - [GitHub as @ruicore(you are here)](https://github.com/ruicore)
-- [Twitter as @ruicore](https://twitter.com/super76rui)
+- [Twitter as @Daniel](https://twitter.com/DanielThom64316)
 - [LinkedIn as @ruicore](https://www.linkedin.com/in/%E7%9D%BF-%E4%BD%95-068b1a145/)
 - [Medium as @ruicore](https://medium.com/@hrui835)
 

@@ -2,7 +2,7 @@
 
 I'm a web backend developer, currently working at a small company. I'm also a student of Information Management and Information System at Wuhan University of Technology.
 
-I currently live in Hangzhou, China.
+I currently live in HongKong.
 
 I mainly use Python to develop web applications. I also have some experience with TypeScript, and Go.
 
@@ -15,8 +15,8 @@ I currently use [FastAPI](https://fastapi.tiangolo.com/) to develop web applicat
 You can find me on:
 
 - [GitHub as @ruicore(you are here)](https://github.com/ruicore)
-- [Twitter as @Daniel](https://twitter.com/DanielThom64316)
-- [LinkedIn as @ruicore](https://www.linkedin.com/in/%E7%9D%BF-%E4%BD%95-068b1a145/)
+- [Twitter as @Daniel](https://x.com/Daniel970403)
+- [LinkedIn as @ruicore](https://www.linkedin.com/in/rui-he-068b1a145/)
 - [Medium as @ruicore](https://medium.com/@hrui835)
 
 

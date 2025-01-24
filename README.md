@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [@RuiCore](https://github.com/ruicore)
+### Hi there 👋 I'm [@Rui HE](https://github.com/ruicore)
 
 I'm a web backend developer, currently working at a small company. I'm also a student of Information Management and Information System at Wuhan University of Technology.
 
@@ -14,10 +14,10 @@ I currently use [FastAPI](https://fastapi.tiangolo.com/) to develop web applicat
 
 You can find me on:
 
-- [GitHub as @ruicore(you are here)](https://github.com/ruicore)
+- [GitHub as @Rui HE(you are here)](https://github.com/ruicore)
 - [Twitter as @Daniel](https://x.com/Daniel970403)
-- [LinkedIn as @ruicore](https://www.linkedin.com/in/rui-he-068b1a145/)
-- [Medium as @ruicore](https://medium.com/@hrui835)
+- [LinkedIn as @Rui HE](https://www.linkedin.com/in/rui-he-068b1a145/)
+- [Medium as @Rui HE](https://medium.com/@hrui835)
 
 
 

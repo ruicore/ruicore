@@ -33,8 +33,7 @@ I also build **full-stack projects** such as **Telegram chatbots** deployed usin
 ## 🌍 Languages & Communication
 
 - Native **Chinese** speaker  
-- Proficient in **English** (IELTS 6.5 overall; Reading 7.5)  
-- Actively learning **Japanese** 🇯🇵  
+- Proficient in **English** (IELTS 6.5 overall; Reading 7.5)    
 - Passionate about **cross-language expression** and grammar insights
 
 

@@ -45,8 +45,7 @@ I’m committed to **fitness and mental clarity**:
 - Currently maintianing body fat around **17%
 - Believe that physical health sharpens discipline and focus
 
-I enjoy solving problems through **systems thinking** and thrive on connecting the dots between **engineering**, **data**, and **real-world usability**.  
-Whether it’s **debugging backend bottlenecks** or **optimizing training pipelines**, I strive to build solutions that are both **elegant and practical**.
+I enjoy solving problems through **systems thinking** and thrive on connecting the dots between **engineering**, **data**, and **real-world usability**.  Whether it’s **debugging backend bottlenecks** or **optimizing training pipelines**, I strive to build solutions that are both **elegant and practical**.
 
 
 

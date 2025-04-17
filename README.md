@@ -1,35 +1,57 @@
-### Hi there 👋 I'm [@Rui HE](https://github.com/ruicore)
+# 👨‍💻 About Me
 
-I'm a web backend developer, currently working at a small company. I'm also a student of Information Management and Information System at Wuhan University of Technology.
+I’m a backend software engineer with **5 years of professional experience in Python**, currently pursuing a **Master’s degree in Data Analytics and Artificial Intelligence** at **Hong Kong Baptist University**.
 
-I currently live in HongKong.
+I specialize in building **scalable backend systems**, crafting **clean APIs (REST & GraphQL)**, and working with **PostgreSQL**, **MySQL**, and other relational databases.
 
-I mainly use Python to develop web applications. I also have some experience with TypeScript, and Go.
+Over the years, I’ve designed and delivered **production-ready services**—from **permission systems** and **OAuth2 integrations** to internal **SDKs** that streamline team workflows. I value **clean architecture**, **coding standards**, and enjoy **mentoring junior developers**.
 
-I created a package called [ExcelAlchemy](https://pypi.org/project/ExcelAlchemy/) to help me deal with Excel files. It's a wrapper of [openpyxl](https://pypi.org/project/openpyxl/) and [panadas](https://pypi.org/project/pandas/). It's still in development, but it's already usable. It's mainly used to import and export Excel files, load excel data into pydantic models, and export pydantic models to Excel files.
+---
 
-If you find it useful, please give it a star. If you have any questions, please feel free to open an issue or contact me.
+## 🧠 Current Focus
 
-I currently use [FastAPI](https://fastapi.tiangolo.com/) to develop web applications. I also use [SQLAlchemy](https://www.sqlalchemy.org/) to connect to the database. I use [Pydantic](https://pydantic-docs.helpmanual.io/) to validate data. I use [uvicorn](https://www.uvicorn.org/) to run the application. I use [postgresql](https://www.postgresql.org/) as the database and [redis](https://redis.io/) as the cache.
+I'm currently exploring the **intersection of software engineering and machine learning**.
 
-You can find me on:
+My academic research focuses on **facial expression recognition** using CNNs and **GAN-generated synthetic data**, with hands-on experiments involving:
+- **StyleGAN2-ADA**
+- **ResNet**, **EfficientNet**
+- **UMAP**, **t-SNE**
+- Tracked using **PyTorch Lightning** and **Weights & Biases (wandb)**
 
-- [GitHub as @Rui HE(you are here)](https://github.com/ruicore)
-- [LinkedIn as @Rui HE](https://www.linkedin.com/in/rui-he-068b1a145/)
+I also build **full-stack projects** such as **Telegram chatbots** deployed using **Docker and Heroku** as part of my learning and teaching journey.
 
+---
 
+## 🔧 Technical Highlights
 
-<!--
-**ruicore/ruicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages**: Python, SQL, JavaScript  
+- **Frameworks**: FastAPI, Flask, Django, PyTorch Lightning, SQLAlchemy  
+- **DevOps**: Docker, Git, Heroku, CI/CD pipelines  
+- **ML/AI**: CNNs, GANs, Transformers, Diffusion Models, Performance Optimization  
+- **Tools**: wandb, TensorBoard, UMAP, t-SNE, PCA  
+- **Deployment**: Webhooks, Heroku, Dockerized bots, RESTful microservices  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Languages & Communication
+
+- Native **Chinese** speaker  
+- Proficient in **English** (IELTS 6.5 overall; Reading 7.5)  
+- Actively learning **Japanese** 🇯🇵  
+- Passionate about **cross-language expression** and grammar insights
+
+---
+
+## 🏋️ Personal Interests
+
+I’m committed to **fitness and mental clarity**:
+- I **exercise daily**, practice **intermittent fasting**
+- Currently maintianing body fat around **17%
+- Believe that physical health sharpens discipline and focus
+
+I enjoy solving problems through **systems thinking** and thrive on connecting the dots between **engineering**, **data**, and **real-world usability**.  
+Whether it’s **debugging backend bottlenecks** or **optimizing training pipelines**, I strive to build solutions that are both **elegant and practical**.
+
+---
+
+> 🧩 *Let’s collaborate on scalable systems, AI projects, or just exchange ideas about clean architecture and machine learning workflows!*

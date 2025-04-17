@@ -6,7 +6,6 @@ I specialize in building **scalable backend systems**, crafting **clean APIs (RE
 
 Over the years, I’ve designed and delivered **production-ready services**—from **permission systems** and **OAuth2 integrations** to internal **SDKs** that streamline team workflows. I value **clean architecture**, **coding standards**, and enjoy **mentoring junior developers**.
 
----
 
 ## 🧠 Current Focus
 
@@ -20,7 +19,6 @@ My academic research focuses on **facial expression recognition** using CNNs and
 
 I also build **full-stack projects** such as **Telegram chatbots** deployed using **Docker and Heroku** as part of my learning and teaching journey.
 
----
 
 ## 🔧 Technical Highlights
 
@@ -31,7 +29,6 @@ I also build **full-stack projects** such as **Telegram chatbots** deployed usin
 - **Tools**: wandb, TensorBoard, UMAP, t-SNE, PCA  
 - **Deployment**: Webhooks, Heroku, Dockerized bots, RESTful microservices  
 
----
 
 ## 🌍 Languages & Communication
 
@@ -40,7 +37,6 @@ I also build **full-stack projects** such as **Telegram chatbots** deployed usin
 - Actively learning **Japanese** 🇯🇵  
 - Passionate about **cross-language expression** and grammar insights
 
----
 
 ## 🏋️ Personal Interests
 
@@ -52,6 +48,6 @@ I’m committed to **fitness and mental clarity**:
 I enjoy solving problems through **systems thinking** and thrive on connecting the dots between **engineering**, **data**, and **real-world usability**.  
 Whether it’s **debugging backend bottlenecks** or **optimizing training pipelines**, I strive to build solutions that are both **elegant and practical**.
 
----
+
 
 > 🧩 *Let’s collaborate on scalable systems, AI projects, or just exchange ideas about clean architecture and machine learning workflows!*

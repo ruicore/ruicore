@@ -39,4 +39,4 @@ I’m committed to **fitness and mental clarity**, I believe that physical healt
 
 I enjoy solving problems through **systems thinking** and thrive on connecting the dots between **engineering**, **data**, and **real-world usability**. Whether it’s **debugging backend bottlenecks** or **optimizing training pipelines**, I aim to build solutions that are both **elegant and practical**.
 
-> 🧩 *Let’s collaborate on scalable systems, AI projects, or just exchange ideas about clean architecture and machine learning workflows!*
+> 🧩 *Let’s collaborate on scalable systems, AI projects, or just exchange ideas about anything!*

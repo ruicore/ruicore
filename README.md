@@ -4,7 +4,6 @@ I'm a **Python backend engineer** with **5+ years of professional experience**, 
 
 My work focuses on building **complex, long-lived systems** rather than short-lived applications. I care deeply about **code quality**, **clear abstractions**, and **maintainable architectures**, especially in environments where existing web frameworks are no longer sufficient.
 
----
 
 ## 🧠 What I’m Working On
 
@@ -19,7 +18,6 @@ My recent work emphasizes:
 
 This kind of work goes beyond typical web backend development, and requires careful thinking around **API boundaries**, **data flow**, **error semantics**, and **lifecycle management**.
 
----
 
 ## 🧱 Engineering Philosophy
 
@@ -32,7 +30,6 @@ Across both past and current projects, I consistently emphasize:
 
 Earlier in my career, this mindset guided my work on backend systems such as permission models and OAuth-based authentication flows. More recently, it has become even more critical in **non-web, system-oriented Python projects**, where frameworks provide far less structure by default.
 
----
 
 ## 🔧 Technical Skill Set
 
@@ -56,7 +53,6 @@ Earlier in my career, this mindset guided my work on backend systems such as per
 - Debugging performance and stability issues
 - Git-based workflows and long-term maintenance
 
----
 
 ## 🌍 Communication
 
@@ -64,7 +60,6 @@ Earlier in my career, this mindset guided my work on backend systems such as per
 - Fluent **English**
 - Comfortable documenting complex systems and explaining technical decisions across teams
 
----
 
 ## 🏋️ Beyond Code
 

@@ -1,42 +1,76 @@
+# 👋 Hi, I'm Ray Carter (ruicore)
 
-# 👨‍💻 About Me
+I'm a **Python backend engineer** with **5+ years of professional experience**, and an **MSc graduate in Data Analytics & Artificial Intelligence**.
 
-I’m a backend software engineer with **5 years of professional experience in Python**, and a recent **MSc graduate in Data Analytics and Artificial Intelligence** from **Hong Kong Baptist University**.
+My work focuses on building **complex, long-lived systems** rather than short-lived applications. I care deeply about **code quality**, **clear abstractions**, and **maintainable architectures**, especially in environments where existing web frameworks are no longer sufficient.
 
-I specialize in building **scalable backend systems**, crafting **clean APIs (REST & GraphQL)**, and working with **PostgreSQL**, **MySQL**, and other relational databases. I've designed and delivered **production-ready services**—from **permission systems** and **OAuth2 integrations** to internal **SDKs** that streamline team workflows. I value **clean architecture**, **coding standards**, and enjoy **mentoring junior developers**.
+---
 
-## 🧠 Current Focus
+## 🧠 What I’m Working On
 
-I'm actively transitioning into **LLM Application Engineering**, **MLOps**, and **ML Engineering**, where I can combine my backend expertise with applied machine learning and AI deployment. 
+Currently, I’m focused on **Python-based systems for robotics and computer vision**, where software engineering quality directly impacts system stability, performance, and extensibility.
 
-As part of my MSc journey, I completed projects on **facial expression recognition**, applying:
-- **StyleGAN2-ADA** for synthetic data generation
-- **ResNet**, **EfficientNet** for classification
-- **UMAP**, **t-SNE** for visualization
-- Training pipelines built with **PyTorch Lightning** and tracked using **Weights & Biases (wandb)**
+My recent work emphasizes:
 
-I’m also exploring **LLM-powered systems** with **LangChain**, **Transformers**, and model deployment using **TorchServe**, **FastAPI**, and **Docker**.
+- Designing **reusable core modules and SDK-style components**
+- Structuring **vision and robotics pipelines** with clear responsibilities
+- Managing **configuration-driven systems** instead of hard-coded logic
+- Enforcing **coding standards and design patterns** in large Python codebases
 
-## 🔧 Technical Highlights
+This kind of work goes beyond typical web backend development, and requires careful thinking around **API boundaries**, **data flow**, **error semantics**, and **lifecycle management**.
 
-- **Languages**: Python (Primary), SQL (Working Proficiency)
-- **API**: REST, GraphQL, FastAPI
-- **Frameworks**: FastAPI, Flask, Django, PyTorch Lightning, LangChain
-- **ML/AI**: Transformers, LoRA, RAG, CNNs, GANs, Diffusion Models
-- **MLOps & DevOps**: Docker, TorchServe, Triton, MLflow, CI/CD, wandb, Git
-- **Tools**: FAISS, TensorBoard, UMAP, t-SNE, PCA
-- **Cloud & Deployment**: Heroku, HuggingFace Hub, Dockerized bots, scalable microservices
+---
 
-## 🌍 Languages & Communication
+## 🧱 Engineering Philosophy
 
-- Native **Chinese** speaker  
-- Fluent in **English**  
-- Passionate about **cross-language expression** and grammar insights
+Across both past and current projects, I consistently emphasize:
 
-## 🏋️ Personal Interests
+- **Clean architecture** and separation of concerns  
+- Thoughtful use of **design patterns** (Factory, Strategy, Builder, etc.)
+- Writing code that is **readable, testable, and evolvable**
+- Treating internal modules and SDKs as **public APIs**, even when used internally
 
-I’m committed to **fitness and mental clarity**, I believe that physical health sharpens discipline and focus.
+Earlier in my career, this mindset guided my work on backend systems such as permission models and OAuth-based authentication flows. More recently, it has become even more critical in **non-web, system-oriented Python projects**, where frameworks provide far less structure by default.
 
-I enjoy solving problems through **systems thinking** and thrive on connecting the dots between **engineering**, **data**, and **real-world usability**. Whether it’s **debugging backend bottlenecks** or **optimizing training pipelines**, I aim to build solutions that are both **elegant and practical**.
+---
 
-> 🧩 *Let’s collaborate on scalable systems, AI projects, or just exchange ideas about anything!*
+## 🔧 Technical Skill Set
+
+**Languages**
+- Python (Primary)
+- SQL
+
+**Backend & Systems**
+- API design (REST, GraphQL)
+- Internal SDK & library design
+- Configuration-driven and modular architectures
+
+**Computer Vision & AI (Engineering-Oriented)**
+- Vision pipelines and data preprocessing
+- Model integration and inference workflows
+- Experimentation and evaluation tooling
+
+**Engineering Practices**
+- Coding standards & code review
+- Design patterns & refactoring
+- Debugging performance and stability issues
+- Git-based workflows and long-term maintenance
+
+---
+
+## 🌍 Communication
+
+- Native **Chinese**
+- Fluent **English**
+- Comfortable documenting complex systems and explaining technical decisions across teams
+
+---
+
+## 🏋️ Beyond Code
+
+I value **discipline and long-term thinking**, both in engineering and in life. I enjoy breaking down complex systems, identifying structural weaknesses, and improving them step by step.
+
+Whether it’s backend infrastructure, vision pipelines, or system-level Python code, my goal is always the same:  
+**build software that remains understandable and reliable long after it’s written.**
+
+> 🧩 Always happy to exchange ideas around software architecture, system design, and engineering practices.

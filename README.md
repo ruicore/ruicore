@@ -1,71 +1,53 @@
-# 👋 Hi, I'm Ray Carter (ruicore)
+# Hi, I'm Ray Carter (ruicore)
 
-I'm a **Python backend engineer** with **5+ years of professional experience**, and an **MSc graduate in Data Analytics & Artificial Intelligence**.
+I build maintainable Python systems for AI, robotics, and data-heavy workflows, with a focus on architecture, internal SDKs, clear contracts, and long-term operability.
 
-My work focuses on building **complex, long-lived systems** rather than short-lived applications. I care deeply about **code quality**, **clear abstractions**, and **maintainable architectures**, especially in environments where existing web frameworks are no longer sufficient.
+I am a Python systems engineer with 5+ years of professional experience and an MSc in Data Analytics & Artificial Intelligence. My strongest work is not only shipping features, but shaping codebases so they remain understandable, testable, and safe to extend after the first version is done.
 
+## What I Build
 
-## 🧠 What I’m Working On
+- **Python libraries and internal SDKs** with stable public surfaces, typed data contracts, and documentation that can guide both humans and coding agents.
+- **AI and computer-vision tooling** where model integration, data flow, UI behavior, and operational constraints need to fit into one reliable system.
+- **Backend integrations** for authentication, messaging, storage, and workflow automation.
+- **Engineering operating systems**: coding standards, review protocols, debugging loops, PRD-to-issue workflows, and agent-facing development rules.
 
-Currently, I’m focused on **Python-based systems for robotics and computer vision**, where software engineering quality directly impacts system stability, performance, and extensibility.
+## Selected Work
 
-My recent work emphasizes:
+- [ExcelAlchemy](https://github.com/RayCarterLab/ExcelAlchemy): schema-driven Excel import/export workflows with Pydantic models, locale-aware workbooks, pluggable storage, and contract-tested architecture.
+- [Codex Skills](https://github.com/ruicore/codex-skills): reusable agent workflows for diagnosis, TDD, technical critique, PRD writing, and durable engineering decisions.
+- [Python3 Project Code Conventions](https://github.com/ruicore/python3-programming-specification): a practical engineering style guide focused on readability, extensibility, robustness, and review quality.
+- [DingTalkOAuth](https://github.com/RayCarterLab/DingTalkOAuth): a FastAPI-based DingTalk OAuth and messaging integration designed around cloud/local deployment boundaries.
+- [SpeechX / LingoTask](https://github.com/ruicore/SpeechX): a FastAPI translation service with LLM prompting, vocabulary extraction, document export, and API tests.
 
-- Designing **reusable core modules and SDK-style components**
-- Structuring **vision and robotics pipelines** with clear responsibilities
-- Managing **configuration-driven systems** instead of hard-coded logic
-- Enforcing **coding standards and design patterns** in large Python codebases
+## Engineering Philosophy
 
-This kind of work goes beyond typical web backend development, and requires careful thinking around **API boundaries**, **data flow**, **error semantics**, and **lifecycle management**.
+I care about code that survives contact with real systems:
 
+- clear module boundaries and stable API contracts
+- explicit data flow, error semantics, and lifecycle ownership
+- configuration-driven behavior instead of scattered hard-coded logic
+- tests that protect behavior rather than implementation trivia
+- documentation that explains decisions, not just commands
 
-## 🧱 Engineering Philosophy
+Earlier in my career this showed up in backend systems, permission models, OAuth flows, and REST/GraphQL services. More recently it has become central to my work on non-web Python systems, computer-vision pipelines, and agent-assisted software engineering, where frameworks provide less structure by default and engineering discipline matters more.
 
-Across both past and current projects, I consistently emphasize:
+## Technical Focus
 
-- **Clean architecture** and separation of concerns  
-- Thoughtful use of **design patterns** (Factory, Strategy, Builder, etc.)
-- Writing code that is **readable, testable, and evolvable**
-- Treating internal modules and SDKs as **public APIs**, even when used internally
+- **Core:** Python, SQL, REST/GraphQL APIs, FastAPI/Flask, Pydantic, SQLAlchemy, PostgreSQL, Redis
+- **Systems:** internal SDK design, modular architecture, typed workflows, storage integration, configuration management
+- **AI/CV:** vision pipelines, data preprocessing, model integration, inference workflows, evaluation tooling
+- **Engineering practice:** code review, test strategy, refactoring, debugging, technical writing, Git-based delivery
 
-Earlier in my career, this mindset guided my work on backend systems such as permission models and OAuth-based authentication flows. More recently, it has become even more critical in **non-web, system-oriented Python projects**, where frameworks provide far less structure by default.
+## Communication
 
-
-## 🔧 Technical Skill Set
-
-**Languages**
-- Python (Primary)
-- SQL
-
-**Backend & Systems**
-- API design (REST, GraphQL)
-- Internal SDK & library design
-- Configuration-driven and modular architectures
-
-**Computer Vision & AI (Engineering-Oriented)**
-- Vision pipelines and data preprocessing
-- Model integration and inference workflows
-- Experimentation and evaluation tooling
-
-**Engineering Practices**
-- Coding standards & code review
-- Design patterns & refactoring
-- Debugging performance and stability issues
-- Git-based workflows and long-term maintenance
-
-
-## 🌍 Communication
-
-- Native **Chinese**
-- Fluent **English**
+- Native Chinese
+- Fluent English
 - Comfortable documenting complex systems and explaining technical decisions across teams
 
+## Beyond Code
 
-## 🏋️ Beyond Code
+I value discipline and long-term thinking. I like breaking down complex systems, identifying structural weaknesses, and improving them step by step.
 
-I value **discipline and long-term thinking**, both in engineering and in life. I enjoy breaking down complex systems, identifying structural weaknesses, and improving them step by step.
+My goal is consistent across backend infrastructure, AI tooling, and system-level Python code:
 
-Whether it’s backend infrastructure, vision pipelines, or system-level Python code, my goal is always the same:  
-**build software that remains understandable and reliable long after it’s written.**
-
-> 🧩 Always happy to exchange ideas around software architecture, system design, and engineering practices.
+**build software that remains understandable and reliable long after it is written.**

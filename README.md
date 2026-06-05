@@ -1,52 +1,54 @@
-# Hi, I'm Ray Carter (ruicore)
+# Ray Carter
 
-I build maintainable Python systems for AI, robotics, and data-heavy workflows, with a focus on architecture, internal SDKs, clear contracts, and long-term operability.
+**Python Backend Engineer building production AI systems and agent workflows.**
 
-I am a Python systems engineer with 5+ years of professional experience and an MSc in Data Analytics & Artificial Intelligence. My strongest work is not only shipping features, but shaping codebases so they remain understandable, testable, and safe to extend after the first version is done.
+I am a Python systems engineer with 5+ years of backend experience and an MSc in Data Analytics & Artificial Intelligence. My current direction is the bridge from backend engineering into AI systems engineering: reliable APIs, typed contracts, maintainable service boundaries, agent workflows, and infrastructure that can support LLM-powered products beyond the demo stage.
+
+I am not positioning myself as a pure ML researcher or Kaggle-style data scientist. My strongest signal is practical software engineering: clear architecture, tests, documentation, integration boundaries, and systems that remain understandable after the first version ships.
+
+## Start Here
+
+These repositories are intended to read as one portfolio story:
+
+1. [ExcelAlchemy](https://github.com/RayCarterLab/ExcelAlchemy) shows reusable Python library engineering: typed workbook contracts, Pydantic models, storage boundaries, documentation, examples, and contract tests.
+2. [SpeechX / LingoTask](https://github.com/ruicore/SpeechX) applies that engineering style to a small LLM-backed FastAPI service with request/response schemas, prompt handling, Word export, and tests around deterministic behavior.
+3. [Codex Skills](https://github.com/ruicore/codex-skills) captures reusable AI-assisted engineering workflows for diagnosis, TDD, architecture review, PRD writing, and durable decision traces.
+4. [DingTalkOAuth](https://github.com/RayCarterLab/DingTalkOAuth) demonstrates backend integration work around OAuth, messaging, deployment boundaries, and external platform APIs.
+5. [Python3 Project Code Conventions](https://github.com/ruicore/python3-programming-specification) documents how I think about code quality, review judgment, readability, extensibility, and robustness.
+6. [FlaskRestful](https://github.com/RayCarterLab/FlaskRestful) is a legacy/reference backend template that shows earlier REST API structure, response contracts, exception handling, migrations, Docker setup, and tests.
+
+Together, these projects are meant to show a backend engineer moving toward AI systems engineering through production-minded building blocks: contracts, tests, workflow design, maintainability, and operational awareness.
 
 ## What I Build
 
-- **Python libraries and internal SDKs** with stable public surfaces, typed data contracts, and documentation that can guide both humans and coding agents.
-- **AI and computer-vision tooling** where model integration, data flow, UI behavior, and operational constraints need to fit into one reliable system.
-- **Backend integrations** for authentication, messaging, storage, and workflow automation.
-- **Engineering operating systems**: coding standards, review protocols, debugging loops, PRD-to-issue workflows, and agent-facing development rules.
+- **Python backend services and libraries** with stable interfaces, typed data models, and clear integration boundaries.
+- **LLM application surfaces** where prompts, schemas, provider calls, document output, errors, and tests need to fit into a maintainable service.
+- **Agent-assisted engineering workflows** that make debugging, review, planning, and refactoring more repeatable.
+- **Developer-facing documentation** that explains decisions, constraints, and usage paths rather than only listing commands.
 
-## Selected Work
+## Engineering Principles
 
-- [ExcelAlchemy](https://github.com/RayCarterLab/ExcelAlchemy): schema-driven Excel import/export workflows with Pydantic models, locale-aware workbooks, pluggable storage, and contract-tested architecture.
-- [Codex Skills](https://github.com/ruicore/codex-skills): reusable agent workflows for diagnosis, TDD, technical critique, PRD writing, and durable engineering decisions.
-- [Python3 Project Code Conventions](https://github.com/ruicore/python3-programming-specification): a practical engineering style guide focused on readability, extensibility, robustness, and review quality.
-- [DingTalkOAuth](https://github.com/RayCarterLab/DingTalkOAuth): a FastAPI-based DingTalk OAuth and messaging integration designed around cloud/local deployment boundaries.
-- [SpeechX / LingoTask](https://github.com/ruicore/SpeechX): a FastAPI translation service with LLM prompting, vocabulary extraction, document export, and API tests.
+I care about software that survives real constraints:
 
-## Engineering Philosophy
-
-I care about code that survives contact with real systems:
-
-- clear module boundaries and stable API contracts
-- explicit data flow, error semantics, and lifecycle ownership
-- configuration-driven behavior instead of scattered hard-coded logic
-- tests that protect behavior rather than implementation trivia
-- documentation that explains decisions, not just commands
-
-Earlier in my career this showed up in backend systems, permission models, OAuth flows, and REST/GraphQL services. More recently it has become central to my work on non-web Python systems, computer-vision pipelines, and agent-assisted software engineering, where frameworks provide less structure by default and engineering discipline matters more.
+- explicit contracts at module, API, and storage boundaries
+- tests that protect behavior rather than implementation accidents
+- error handling and failure modes that are visible to callers
+- documentation that makes architecture and tradeoffs inspectable
+- maintainability over cleverness
+- AI features treated as systems, not isolated prompts
 
 ## Technical Focus
 
-- **Core:** Python, SQL, REST/GraphQL APIs, FastAPI/Flask, Pydantic, SQLAlchemy, PostgreSQL, Redis
-- **Systems:** internal SDK design, modular architecture, typed workflows, storage integration, configuration management
-- **AI/CV:** vision pipelines, data preprocessing, model integration, inference workflows, evaluation tooling
-- **Engineering practice:** code review, test strategy, refactoring, debugging, technical writing, Git-based delivery
+- **Backend:** Python, FastAPI/Flask, REST/GraphQL APIs, Pydantic, SQLAlchemy, PostgreSQL, Redis
+- **Systems:** internal SDK design, typed workflows, modular architecture, storage integration, configuration management
+- **AI engineering:** LLM service integration, prompt workflows, document generation, agent workflows, evaluation-aware development
+- **Engineering practice:** testing strategy, code review, refactoring, debugging, technical writing, Git-based delivery
 
 ## Communication
 
 - Native Chinese
 - Fluent English
 - Comfortable documenting complex systems and explaining technical decisions across teams
-
-## Beyond Code
-
-I value discipline and long-term thinking. I like breaking down complex systems, identifying structural weaknesses, and improving them step by step.
 
 My goal is consistent across backend infrastructure, AI tooling, and system-level Python code:
 

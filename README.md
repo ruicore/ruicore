@@ -16,7 +16,6 @@ These repositories are intended to read as one portfolio story:
 4. [Codex Skills](https://github.com/ruicore/codex-skills) captures reusable AI-assisted engineering workflows for diagnosis, TDD, architecture review, PRD writing, and durable decision traces.
 5. [DingTalkOAuth](https://github.com/RayCarterLab/DingTalkOAuth) demonstrates backend integration work around OAuth, messaging, deployment boundaries, and external platform APIs.
 6. [Python3 Project Code Conventions](https://github.com/ruicore/python3-programming-specification) documents how I think about code quality, review judgment, readability, extensibility, and robustness.
-7. [FlaskRestful](https://github.com/RayCarterLab/FlaskRestful) is a legacy/reference backend template that shows earlier REST API structure, response contracts, exception handling, migrations, Docker setup, and tests.
 
 Together, these projects are meant to show a backend engineer moving toward AI systems engineering through production-minded building blocks: data ingestion control planes, contracts, tests, workflow design, maintainability, and operational awareness.
 
